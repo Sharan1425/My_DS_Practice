@@ -1,7 +1,6 @@
 # Implementation of General Tree
 
 # Object of the Tree
-
 class TreeNode:
     def __init__(self,data):
         self.data = data
